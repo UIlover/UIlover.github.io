@@ -1,9 +1,9 @@
 # Site settings
-title: BY Blog
+title: UIlover(王思)的博客
 SEOTitle: 王思的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
+email: uiwangsi@163.com
+description: "成为一个技术流的UI"
 keyword: "WS, UIlover, 王思的博客, wangsi, 王思, UI, UID, C4D, PS, AE, 王思UI设计师"
 url: "http://UIlover.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'

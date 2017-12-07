@@ -1,6 +1,6 @@
 # Site settings
-title: UIlover(王思)的博客
-SEOTitle: 王思的博客 | BY Blog
+title: UIlover
+SEOTitle: 王思的博客 | BY uilover
 header-img: img/post-bg-desk.jpg
 email: uiwangsi@163.com
 description: "成为一个技术流的UI"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "开黑吗？我PS玩的贼6."
+sidebar-about-description: "努力成为一个有技术有艺术的人"
 sidebar-avatar: /img/wangsi.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
